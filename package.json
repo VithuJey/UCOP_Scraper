@@ -1,0 +1,27 @@
+{
+  "name": "ucop-scraper",
+  "version": "1.0.0",
+  "description": "A scraper to scrape university of california pathway guide details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VithuJey/UCOP_Scraper.git"
+  },
+  "keywords": [
+    "ucop",
+    "pathway",
+    "scraper"
+  ],
+  "author": "VithushanJey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VithuJey/UCOP_Scraper/issues"
+  },
+  "homepage": "https://github.com/VithuJey/UCOP_Scraper#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
